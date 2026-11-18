@@ -1,6 +1,6 @@
 **Bingpot** was a coding challenge at the Shiv Nadar University Symposium 2026, where my team had to figure out clues and build a vibe-coded website (using ChatGPT and Gemini only) based on them. 
 
-The theme we uncovered for our build was "Career roadmap website where courses, progress and what to learn next is tracked." It was almost similar to Udemy.
+The theme we uncovered for our build was "Career roadmap website where courses, progress and what to learn next is displayed." It was almost similar to Udemy.
 
 <br/>
 
