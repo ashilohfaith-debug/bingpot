@@ -1,4 +1,4 @@
-**Bingpot** is a competition at the Shiv Nadar University Symposium 2026, where my team had to figure out clues and build a vibe-coded website (using ChatGPT and Gemini only) based on them. 
+**Bingpot** was a competition at the Shiv Nadar University Symposium 2026, where my team had to figure out clues and build a vibe-coded website (using ChatGPT and Gemini only) based on them. 
 
 <br/>
 
