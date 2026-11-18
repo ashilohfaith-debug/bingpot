@@ -1,3 +1,5 @@
-**Bingpot** was a competition where my team had to figure out clues and build a vibe-coded website based on them using ChatGPT and Gemini only.
+**Bingpot** is a competition at the Shiv Nadar University Symposium 2026, where my team had to figure out clues and build a vibe-coded website (using ChatGPT and Gemini only) based on them. 
 
-<img width="371" height="275" alt="image" src="https://github.com/user-attachments/assets/b8f8f7e0-9b01-4c9b-a1d0-28fb840f1389" />
+<br/>
+
+<img width="371" height="275" alt="image" src="https://github.com/user-attachments/assets/b8f8f7e0-9b01-4c9b-a1d0-28fb840f1389" />  <img width="500" height="275" alt="WhatsApp Image 2026-11-18 at 3 40 54 PM" src="https://github.com/user-attachments/assets/e0d90ce1-f0ad-4fc9-8eaa-271ea666bf45" />
